@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d2af7fa.css",
+    "main.js": "/static/js/main.1b51a348.js",
+    "static/js/488.b2c3026e.chunk.js": "/static/js/488.b2c3026e.chunk.js",
+    "static/media/wintertop.png": "/static/media/wintertop.1908e464133006050586.png",
+    "index.html": "/index.html",
+    "main.3d2af7fa.css.map": "/static/css/main.3d2af7fa.css.map",
+    "main.1b51a348.js.map": "/static/js/main.1b51a348.js.map",
+    "488.b2c3026e.chunk.js.map": "/static/js/488.b2c3026e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2af7fa.css",
+    "static/js/main.1b51a348.js"
+  ]
+}
